@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blueviolet&style=flat-square)
 
-🚀 **Team Lead & Senior Software Engineer** | 14+ Years in Software Development | Dubai, UAE  
+🚀 **Team Lead & Senior Software Engineer** | 14+ Years in Software Development
 
 I am a passionate software engineer and team leader with more than 14 years of experience building high-traffic web applications, enterprise integrations, and scalable software solutions. I specialize in backend and frontend development, software consultancy, and leading engineering teams to deliver results that scale.  
 
@@ -24,6 +24,7 @@ Over the years, I have worked across industries such as **HRTech, fintech, tradi
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg#gh-dark-mode-only" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg#gh-dark-mode-only" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg#gh-dark-mode-only" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg#gh-dark-mode-only" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-dark-mode-only" width="50" height="50"/>
