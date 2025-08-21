@@ -89,10 +89,8 @@ Over the years, I have worked across industries such as **HRTech, fintech, tradi
 
 ## 🤝 Connect with Me
 <p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
-  <a href="https://github.com/jamalnasir"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
-  <a href="https://medium.com/@your-medium"><img src="https://img.icons8.com/ios-filled/ffffff/medium-monogram.png" width="40" height="40"/></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
-  <a href="https://your-resume-link.com"><img src="https://img.icons8.com/ios-filled/ffffff/resume.png" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/jamal-a-nasir"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
+  <a href="https://instagram.com/your-instagram"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
+  <a href="https://twitter.com/sybergeek"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
+  <a href="https://jamalabdulnasir.tech"><img src="https://img.icons8.com/ios-filled/ffffff/resume.png" width="40" height="40"/></a>
 </p>
