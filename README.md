@@ -1,97 +1,82 @@
-# 👋 Hi, I'm Jamal Abdul Nasir  
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blueviolet&style=flat-square)
+# I build fintech and AI systems that save time and scale 🚀
 
-🚀 **Team Lead & Senior Software Engineer** | 14+ Years in Software Development
+**Jamal Abdul Nasir** · Full Stack AI-Enabled Developer · Team Lead
+14+ years shipping payments, open banking, HRTech, and automation platforms in the UAE and GCC.
 
-I am a passionate software engineer and team leader with more than 14 years of experience building high-traffic web applications, enterprise integrations, and scalable software solutions. I specialize in backend and frontend development, software consultancy, and leading engineering teams to deliver results that scale.  
+<a href="https://www.linkedin.com/in/jamal-a-nasir"><img src="https://img.shields.io/badge/Book%20a%20chat-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn"></a>
+<a href="https://jamalabdulnasir.tech"><img src="https://img.shields.io/badge/See%20my%20work-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 
-Over the years, I have worked across industries such as **HRTech, fintech, trading, payments, open banking, telecommunications, retail, and digital marketing**. My work includes designing and launching enterprise systems, integrating complex APIs, and leveraging AI/ML for real-world automation.  
-
----
-
-## 💡 What I Do
-- Architect and develop robust web applications (PHP, Laravel, Symfony, Ruby on Rails, React, Python).  
-- Lead engineering teams, mentor developers, and drive Agile/Scrum practices.  
-- Integrate with **Open Banking**, **card management platforms** (Infinios, i2c, Stripe Issuance), and **payment systems** (Stripe, PayPal, Braintree, Payfort).  
-- Build **AI-powered automation**, including CV parsing into structured JSON and intelligent invoice classification.  
-- Optimize performance for **high-traffic apps** (scaled traffic from 10K → 150M visitors for Emaar Malls).  
-- Cloud-native development using **AWS, Docker, Microservices, CI/CD pipelines, Kafka**. 
+</div>
 
 ---
 
-## 🛠️ Languages & Libraries
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg#gh-dark-mode-only" width="50" height="50"/>
-</p>
+## 🎯 What I Do For You
 
----
+| You need | I deliver |
+|---|---|
+| **A fintech or payments platform** | Secure card issuance, open banking, and payment gateway integrations that work in production |
+| **Less manual work** | AI and n8n automations for email, documents, CRM, reporting, and support |
+| **A product built end to end** | Idea, architecture, code, testing, deployment, and support from one owner |
+| **Faster delivery** | AI-assisted development with strict code review, so speed does not cost quality |
+| **A technical leader** | Hands-on lead who mentors engineers and removes blockers |
 
-## ⚡ AI Tools & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat-square"height="40"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=flat-square" height="40"/>
-</p>
+## 📈 Proof
 
----
+- **10K to 150M monthly visitors:** grew the mall division websites at **Emaar Malls**
+- **2.5M+ downloads:** contributed to The Dubai Mall iOS and Android apps
+- **Cards, banking, and KYC:** integrated Infinios, i2c, Stripe Card Issuance, JUMIO, Sijilat, LMRA, and WPS at **Tmam**
+- **Accounting automation:** connected Zoho, QuickBooks, Xero, Tally, and Odoo, and added Railz and Monite to cut manual finance work
+- **Trading:** connected MT4, MT5, and cTrader at **Multibank**
+- **Document automation:** GenAI pipelines that parse CVs into structured JSON and classify invoices automatically
 
-## 🐳 Containerization & Orchestration
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg#gh-dark-mode-only" width="50" height="50"/>
-</p>
+**Trusted by:** Emaar Malls · Multibank Group · NexsysOne · Tmam Payment Services Provider
 
----
+## 🤖 AI Automation I Can Build
 
-## ☁️ Cloud Providers
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg#gh-dark-mode-only" width="50" height="50"/>
-</p>
+| Solution | Result for your business |
+|---|---|
+| **Email processing** | Attachments are read, sorted, and sent to your CRM and dashboards |
+| **AI chatbots** | Customer questions answered through OpenAI and your support tools |
+| **AI voice agents** | Calls handled with Vapi or Retell AI, with CRM updates and summaries |
+| **RAG knowledge search** | Staff and customers get answers from your own PDFs and documents |
+| **Research and news digests** | Daily briefs with sources, summaries, and key points |
+| **Social media automation** | Scheduled posts, AI captions, and analytics logging |
+| **Meeting scheduling** | Bookings made automatically with Google Calendar |
 
----
+## ⚙️ How I Work
 
-## 🏗️ Infrastructure as Code
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" height="40"/>
-</p>
+1. **Understand:** clear requirements, scope, and success measures
+2. **Plan:** architecture, data models, and API contracts before coding
+3. **Build:** fast delivery with Cursor, Claude, and AI coding agents
+4. **Review:** every AI-generated change is checked for security, speed, and maintainability
+5. **Launch and support:** deployment, monitoring, and continuous improvement
 
----
+## 🏗️ Products I've Built
 
-## 🗄️ Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg#gh-dark-mode-only" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg#gh-dark-mode-only" width="50" height="50"/>
-</p>
+| Product | What it is |
+|---|---|
+| [Tmam.io](https://tmam.io) | Fintech and payment platform (PHP, Laravel, React, MySQL) |
+| [iHRMS.io](https://ihrms.io) | HR management software (PHP, Laravel, MySQL) |
+| The Dubai Mall Statistics Dashboard | Management reporting (PHP, Laravel, React, MongoDB) |
+| NexsysOne Vendor Management | SaaS ERP module with rule-based onboarding |
+| Multibank Back Office | Trading and operations apps (PHP, Symfony, MySQL) |
 
----
+## 🛠️ Tech I Use
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamalnasir&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalnasir&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+![Stack](https://skillicons.dev/icons?i=php,laravel,symfony,react,nodejs,py,mysql,postgres,mongodb,redis,aws,docker,nginx,linux)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalnasir&theme=radical&hide_border=true" height="180"/>
-</p>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
----
+## 🤝 Let's Build Something
 
-## 🤝 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/jamal-a-nasir"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
-  <a href="https://twitter.com/sybergeek"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg#gh-dark-mode-only" width="40" height="40"/></a>
-  <a href="https://jamalabdulnasir.tech"><img src="https://img.icons8.com/ios-filled/ffffff/resume.png" width="40" height="40"/></a>
-</p>
+Have a fintech platform, an automation idea, or a team that needs technical leadership?
+
+**👉 [Message me on LinkedIn](https://www.linkedin.com/in/jamal-a-nasir)** and tell me what you are building. I reply with clear next steps.
+
+Open to: **custom software · fintech integrations · AI and n8n automation · technical leadership**
