@@ -8,6 +8,8 @@
 <a href="https://www.linkedin.com/in/jamal-a-nasir"><img src="https://img.shields.io/badge/Book%20a%20chat-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn"></a>
 <a href="https://jamalabdulnasir.tech"><img src="https://img.shields.io/badge/See%20my%20work-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 
+<img src="https://komarev.com/ghpvc/?username=jamalnasir&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+
 </div>
 
 ---
