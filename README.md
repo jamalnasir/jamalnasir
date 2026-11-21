@@ -1,84 +1,225 @@
+<!-- ============ HEADER (auto light / dark) ============ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:0F172A,50:1E3A8A,100:0E75B6&text=Jamal%20Abdul%20Nasir&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Fintech%20%C2%B7%20AI%20Automation%20%C2%B7%20Technical%20Leadership&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&text=Jamal%20Abdul%20Nasir&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Fintech%20%C2%B7%20AI%20Automation%20%C2%B7%20Technical%20Leadership&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn">
+  <img width="100%" alt="Jamal Abdul Nasir — Fintech, AI Automation, Technical Leadership" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&text=Jamal%20Abdul%20Nasir&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Fintech%20%C2%B7%20AI%20Automation%20%C2%B7%20Technical%20Leadership&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn">
+</picture>
+
 <div align="center">
 
-# I build fintech and AI systems that save time and scale 🚀
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+fintech+and+AI+systems+that+save+time+and+scale;Cards+%C2%B7+Open+Banking+%C2%B7+KYC+%C2%B7+Payments;AI+%26+n8n+Workflow+Automation;Hands-on+Team+Lead+%C2%B7+PMP%C2%AE">
+  <img alt="I build fintech and AI systems that save time and scale" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0369A1&center=true&vCenter=true&width=720&lines=I+build+fintech+and+AI+systems+that+save+time+and+scale;Cards+%C2%B7+Open+Banking+%C2%B7+KYC+%C2%B7+Payments;AI+%26+n8n+Workflow+Automation;Hands-on+Team+Lead+%C2%B7+PMP%C2%AE">
+</picture>
 
-**Jamal Abdul Nasir** · Full Stack AI-Enabled Developer · Team Lead
-14+ years shipping payments, open banking, HRTech, and automation platforms in the UAE and GCC.
+**Full Stack AI-Enabled Developer · Technical Team Lead · PMP®**<br/>
+15+ years shipping payments, open banking, HRTech and automation platforms across the UAE and GCC.
 
-<a href="https://www.linkedin.com/in/jamal-a-nasir"><img src="https://img.shields.io/badge/Book%20a%20chat-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact on LinkedIn"></a>
-<a href="https://jamalabdulnasir.tech"><img src="https://img.shields.io/badge/See%20my%20work-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://www.linkedin.com/in/jamal-a-nasir"><img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://jamalabdulnasir.tech"><img src="https://img.shields.io/badge/See%20my%20work-Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<img src="https://img.shields.io/badge/PMP®-Certified-16A34A?style=for-the-badge" alt="PMP Certified">
+<img src="https://img.shields.io/badge/UAE-Sharjah-DC2626?style=for-the-badge" alt="Based in Sharjah, UAE">
 
-<img src="https://komarev.com/ghpvc/?username=jamalnasir&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="180"><h2>15+</h2><sub>years in delivery</sub></td>
+    <td align="center" width="180"><h2>150M</h2><sub>monthly visitors reached</sub></td>
+    <td align="center" width="180"><h2>2.5M+</h2><sub>app downloads</sub></td>
+    <td align="center" width="180"><h2>15+</h2><sub>fintech & ERP integrations</sub></td>
+  </tr>
+</table>
 
 </div>
 
----
+## 🔭 Right Now
+
+- 🏦 **Technical Team Lead** at **Tmam Payment Services Provider**: cards, open banking, KYC and payroll (WPS)
+- 👥 Building **[iHRMS.io](https://ihrms.io)**: multi-tenant HR software for UAE and GCC companies
+- 🤖 Designing **AI and n8n workflows** that remove manual work from finance, HR and support teams
+- 🦀 Building **local-first desktop apps in Rust + Tauri** (see *In the Lab* below)
+- 🧭 Leading teams with **PMP®** planning and AI-assisted delivery
 
 ## 🎯 What I Do For You
 
-| You need | I deliver |
-|---|---|
-| **A fintech or payments platform** | Secure card issuance, open banking, and payment gateway integrations that work in production |
-| **Less manual work** | AI and n8n automations for email, documents, CRM, reporting, and support |
-| **A product built end to end** | Idea, architecture, code, testing, deployment, and support from one owner |
-| **Faster delivery** | AI-assisted development with strict code review, so speed does not cost quality |
-| **A technical leader** | Hands-on lead who mentors engineers and removes blockers |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💳 Fintech & Payments</h4>
+      Card issuance, open banking and payment gateways that work in production.
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Less Manual Work</h4>
+      AI and n8n automations for email, documents, CRM, reporting and support.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🧱 End-to-End Products</h4>
+      Idea, architecture, code, testing, deployment and support from one owner.
+    </td>
+    <td valign="top">
+      <h4>🚀 Faster Delivery</h4>
+      AI-assisted development with strict code review, so speed does not cost quality.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <h4>🧑‍✈️ Technical Leadership</h4>
+      A hands-on, PMP-certified lead who plans delivery, mentors engineers and removes blockers.
+    </td>
+  </tr>
+</table>
 
 ## 📈 Proof
 
-- **10K to 150M monthly visitors:** grew the mall division websites at **Emaar Malls**
-- **2.5M+ downloads:** contributed to The Dubai Mall iOS and Android apps
-- **Cards, banking, and KYC:** integrated Infinios, i2c, Stripe Card Issuance, JUMIO, Sijilat, LMRA, and WPS at **Tmam**
-- **Accounting automation:** connected Zoho, QuickBooks, Xero, Tally, and Odoo, and added Railz and Monite to cut manual finance work
-- **Trading:** connected MT4, MT5, and cTrader at **Multibank**
-- **Document automation:** GenAI pipelines that parse CVs into structured JSON and classify invoices automatically
+| | Area | Result |
+|:---:|---|---|
+| 🛍️ | **Scale** | Grew **Emaar Malls** division websites from **10K to 150M** monthly visitors |
+| 📱 | **Mobile** | Contributed to **The Dubai Mall** iOS and Android apps (**2.5M+** downloads) |
+| 💳 | **Cards & KYC** | Integrated Infinios, i2c, Stripe Card Issuance, JUMIO, Sijilat, LMRA and WPS at **Tmam** |
+| 🧾 | **Finance automation** | Connected Zoho, QuickBooks, Xero, Tally, Odoo, Railz and Monite to cut manual finance work |
+| 📊 | **Trading** | Connected MT4, MT5 and cTrader at **Multibank** |
+| 🧠 | **GenAI** | Pipelines that turn CVs into structured JSON and classify invoices automatically |
 
-**Trusted by:** Emaar Malls · Multibank Group · NexsysOne · Tmam Payment Services Provider
+<div align="center">
 
-## 🤖 AI Automation I Can Build
+**Trusted by**<br/>
+<img src="https://img.shields.io/badge/Emaar%20Malls-334155?style=flat-square" alt="Emaar Malls">
+<img src="https://img.shields.io/badge/Multibank%20Group-334155?style=flat-square" alt="Multibank Group">
+<img src="https://img.shields.io/badge/NexsysOne-334155?style=flat-square" alt="NexsysOne">
+<img src="https://img.shields.io/badge/Tmam%20PSP-334155?style=flat-square" alt="Tmam Payment Services Provider">
 
-| Solution | Result for your business |
-|---|---|
-| **Email processing** | Attachments are read, sorted, and sent to your CRM and dashboards |
-| **AI chatbots** | Customer questions answered through OpenAI and your support tools |
-| **AI voice agents** | Calls handled with Vapi or Retell AI, with CRM updates and summaries |
-| **RAG knowledge search** | Staff and customers get answers from your own PDFs and documents |
-| **Research and news digests** | Daily briefs with sources, summaries, and key points |
-| **Social media automation** | Scheduled posts, AI captions, and analytics logging |
-| **Meeting scheduling** | Bookings made automatically with Google Calendar |
-
-## ⚙️ How I Work
-
-1. **Understand:** clear requirements, scope, and success measures
-2. **Plan:** architecture, data models, and API contracts before coding
-3. **Build:** fast delivery with Cursor, Claude, and AI coding agents
-4. **Review:** every AI-generated change is checked for security, speed, and maintainability
-5. **Launch and support:** deployment, monitoring, and continuous improvement
+</div>
 
 ## 🏗️ Products I've Built
 
-| Product | What it is |
+| Product | What it is | Stack |
+|---|---|---|
+| 💳 [**Tmam.io**](https://tmam.io) | Fintech and payment platform | `PHP` `Laravel` `React` `MySQL` |
+| 👥 [**iHRMS.io**](https://ihrms.io) | HR management SaaS for the GCC | `PHP` `Laravel` `MySQL` |
+| 📊 **The Dubai Mall Statistics Dashboard** | Management reporting | `PHP` `Laravel` `React` `MongoDB` |
+| 🧩 **NexsysOne Vendor Management** | SaaS ERP module with rule-based onboarding | `SaaS` `ERP` |
+| 📈 **Multibank Back Office** | Trading and operations apps | `PHP` `Symfony` `MySQL` |
+
+## 🦀 In the Lab: Rust Desktop Apps
+
+<sub>Native, lightweight and private. Built with <b>Rust + Tauri</b>, local-first, with no server in the loop. You can use your own AI key (OpenAI, Claude, Gemini) or run local models.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬 ScriptLoom</h4>
+      Turns a script, your clips, or both into finished videos for YouTube, TikTok, LinkedIn, Facebook and Instagram. Choose a style: cinematic, corporate, cartoon and more.<br/><br/>
+      <code>Rust</code> <code>Tauri</code> <code>FFmpeg</code> <code>SQLite</code> <code>whisper-rs</code> <code>Piper TTS</code><br/>
+      <img src="https://img.shields.io/badge/status-in%20development-F59E0B?style=flat-square" alt="In development">
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ ShadowTrace <sub>(working name)</sub></h4>
+      A security tool that watches any software from the outside: file, database and network activity, a dependency map, and plain-English AI explanations. It never modifies the app it watches.<br/><br/>
+      <code>Rust</code> <code>Windows-first</code> <code>Local + Cloud AI</code><br/>
+      <img src="https://img.shields.io/badge/status-in%20development-F59E0B?style=flat-square" alt="In development">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>💓 PulseLens</h4>
+      Reads heart and breathing rate from a normal webcam, with the user's consent. Everything runs on the device, and the data never leaves it.<br/><br/>
+      <code>Rust</code> <code>Tauri</code> <code>ONNX Runtime</code> <code>Python research</code><br/>
+      <img src="https://img.shields.io/badge/status-research-8B5CF6?style=flat-square" alt="Research">
+    </td>
+    <td valign="top">
+      <h4>🧠 Local AI Agent Builder</h4>
+      Create agents that run system tasks on schedules, file changes or hotkeys. Tasks are defined in simple YAML and run with an optional AI planner.<br/><br/>
+      <code>Rust</code> <code>Tauri</code> <code>SQLite</code> <code>Ollama</code><br/>
+      <img src="https://img.shields.io/badge/status-design-64748B?style=flat-square" alt="Design">
+    </td>
+  </tr>
+</table>
+
+## 🤖 AI Automation I Can Build
+
+<details>
+<summary><b>See 7 ready-to-build solutions ▾</b></summary>
+<br/>
+
+| Solution | Result for your business |
 |---|---|
-| [Tmam.io](https://tmam.io) | Fintech and payment platform (PHP, Laravel, React, MySQL) |
-| [iHRMS.io](https://ihrms.io) | HR management software (PHP, Laravel, MySQL) |
-| The Dubai Mall Statistics Dashboard | Management reporting (PHP, Laravel, React, MongoDB) |
-| NexsysOne Vendor Management | SaaS ERP module with rule-based onboarding |
-| Multibank Back Office | Trading and operations apps (PHP, Symfony, MySQL) |
+| 📧 **Email processing** | Attachments are read, sorted and sent to your CRM and dashboards |
+| 💬 **AI chatbots** | Customer questions answered through OpenAI and your support tools |
+| 📞 **AI voice agents** | Calls handled with Vapi or Retell AI, with CRM updates and summaries |
+| 📚 **RAG knowledge search** | Staff and customers get answers from your own PDFs and documents |
+| 📰 **Research and news digests** | Daily briefs with sources, summaries and key points |
+| 📣 **Social media automation** | Scheduled posts, AI captions and analytics logging |
+| 📅 **Meeting scheduling** | Bookings made automatically with Google Calendar |
+
+</details>
+
+## ⚙️ How I Work
+
+<div align="center">
+
+`🔍 Understand` ➜ `🗺️ Plan` ➜ `🛠️ Build` ➜ `✅ Review` ➜ `🚀 Launch & Support`
+
+</div>
+
+1. **Understand:** clear requirements, scope and success measures
+2. **Plan:** architecture, data models and API contracts before coding
+3. **Build:** fast delivery with Cursor, Claude and AI coding agents
+4. **Review:** every AI-generated change is checked for security, speed and maintainability
+5. **Launch and support:** deployment, monitoring and continuous improvement
 
 ## 🛠️ Tech I Use
 
-![Stack](https://skillicons.dev/icons?i=php,laravel,symfony,react,nodejs,py,mysql,postgres,mongodb,redis,aws,docker,nginx,linux)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,symfony,react,nodejs,py,rust,tauri,mysql,postgres,mongodb,sqlite,redis,aws,docker,nginx,linux&perline=9&theme=dark">
+    <img alt="Tech stack" src="https://skillicons.dev/icons?i=php,laravel,symfony,react,nodejs,py,rust,tauri,mysql,postgres,mongodb,sqlite,redis,aws,docker,nginx,linux&perline=9&theme=light">
+  </picture>
+</p>
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/Vapi-1E293B?style=for-the-badge" alt="Vapi">
+  <img src="https://img.shields.io/badge/Retell%20AI-0F172A?style=for-the-badge" alt="Retell AI">
+</p>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jamalnasir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9">
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jamalnasir&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0369A1&icon_color=0369A1&text_color=334155">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalnasir&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9">
+    <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalnasir&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=334155">
+  </picture>
+</p>
+
+<div align="center">
 
 ## 🤝 Let's Build Something
 
 Have a fintech platform, an automation idea, or a team that needs technical leadership?
 
-**👉 [Message me on LinkedIn](https://www.linkedin.com/in/jamal-a-nasir)** and tell me what you are building. I reply with clear next steps.
+<a href="https://www.linkedin.com/in/jamal-a-nasir"><img src="https://img.shields.io/badge/👉%20Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn"></a>
 
-Open to: **custom software · fintech integrations · AI and n8n automation · technical leadership**
+Tell me what you are building. I reply with clear next steps.
+
+**Open to:** custom software · fintech integrations · AI and n8n automation · technical leadership
+
+<img src="https://komarev.com/ghpvc/?username=jamalnasir&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+
+</div>
+
+<!-- ============ FOOTER (auto light / dark) ============ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0E75B6,50:1E3A8A,100:0F172A">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7DD3FC,50:BAE6FD,100:E0F2FE">
+</picture>
