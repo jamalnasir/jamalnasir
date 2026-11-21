@@ -1,9 +1,11 @@
-<!-- ============ HEADER (auto light / dark) ============ -->
+<!-- ============ HEADER (auto light / dark) — click to open website ============ -->
+<a href="https://jamalabdulnasir.tech">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:0F172A,50:1E3A8A,100:0E75B6&text=Jamal%20Abdul%20Nasir&fontSize=46&fontColor=F8FAFC&fontAlignY=36&desc=Fintech%20%C2%B7%20AI%20Automation%20%C2%B7%20Technical%20Leadership&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&text=Jamal%20Abdul%20Nasir&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Fintech%20%C2%B7%20AI%20Automation%20%C2%B7%20Technical%20Leadership&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn">
-  <img width="100%" alt="Jamal Abdul Nasir — Fintech, AI Automation, Technical Leadership" src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&text=Jamal%20Abdul%20Nasir&fontSize=46&fontColor=0F172A&fontAlignY=36&desc=Fintech%20%C2%B7%20AI%20Automation%20%C2%B7%20Technical%20Leadership&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:1D4ED8,50:0EA5E9,100:22D3EE&text=Jamal%20Abdul%20Nasir&fontSize=48&fontColor=FFFFFF&fontAlignY=34&desc=Fintech%20%26%20AI%20Systems%20%C2%B7%2015%2B%20Years%20%C2%B7%20UAE%20%26%20GCC%20%C2%B7%20PMP%C2%AE&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&text=Jamal%20Abdul%20Nasir&fontSize=48&fontColor=0F172A&fontAlignY=34&desc=Fintech%20%26%20AI%20Systems%20%C2%B7%2015%2B%20Years%20%C2%B7%20UAE%20%26%20GCC%20%C2%B7%20PMP%C2%AE&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn">
+  <img width="100%" alt="Jamal Abdul Nasir — Fintech and AI systems, 15+ years, UAE and GCC, PMP" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&text=Jamal%20Abdul%20Nasir&fontSize=48&fontColor=0F172A&fontAlignY=34&desc=Fintech%20%26%20AI%20Systems%20%C2%B7%2015%2B%20Years%20%C2%B7%20UAE%20%26%20GCC%20%C2%B7%20PMP%C2%AE&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn">
 </picture>
+</a>
 
 <div align="center">
 
@@ -218,8 +220,11 @@ Tell me what you are building. I reply with clear next steps.
 
 </div>
 
-<!-- ============ FOOTER (auto light / dark) ============ -->
+<!-- ============ FOOTER (auto light / dark) — click to message on LinkedIn ============ -->
+<a href="https://www.linkedin.com/in/jamal-a-nasir">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0E75B6,50:1E3A8A,100:0F172A">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7DD3FC,50:BAE6FD,100:E0F2FE">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:22D3EE,50:0EA5E9,100:1D4ED8&text=Let%27s%20build%20something&fontSize=32&fontColor=FFFFFF&fontAlignY=62&desc=Click%20to%20message%20me%20on%20LinkedIn%20%E2%86%92%20fintech%20%C2%B7%20AI%20automation%20%C2%B7%20team%20leadership&descSize=14&descAlignY=80&descAlign=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:7DD3FC,50:BAE6FD,100:E0F2FE&text=Let%27s%20build%20something&fontSize=32&fontColor=0F172A&fontAlignY=62&desc=Click%20to%20message%20me%20on%20LinkedIn%20%E2%86%92%20fintech%20%C2%B7%20AI%20automation%20%C2%B7%20team%20leadership&descSize=14&descAlignY=80&descAlign=50">
+  <img width="100%" alt="Let's build something — message me on LinkedIn" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:7DD3FC,50:BAE6FD,100:E0F2FE&text=Let%27s%20build%20something&fontSize=32&fontColor=0F172A&fontAlignY=62&desc=Click%20to%20message%20me%20on%20LinkedIn%20%E2%86%92%20fintech%20%C2%B7%20AI%20automation%20%C2%B7%20team%20leadership&descSize=14&descAlignY=80&descAlign=50">
 </picture>
+</a>
