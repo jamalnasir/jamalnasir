@@ -1,21 +1,13 @@
-<!-- ============ HEADER (auto light / dark) — click to open website ============ -->
+<!-- HEADER: switches with GitHub light / dark theme. Click opens website. -->
 <a href="https://jamalabdulnasir.tech">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:1D4ED8,50:0EA5E9,100:22D3EE&text=Jamal%20Abdul%20Nasir&fontSize=48&fontColor=FFFFFF&fontAlignY=34&desc=Fintech%20%26%20AI%20Systems%20%C2%B7%2015%2B%20Years%20%C2%B7%20UAE%20%26%20GCC%20%C2%B7%20PMP%C2%AE&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&text=Jamal%20Abdul%20Nasir&fontSize=48&fontColor=0F172A&fontAlignY=34&desc=Fintech%20%26%20AI%20Systems%20%C2%B7%2015%2B%20Years%20%C2%B7%20UAE%20%26%20GCC%20%C2%B7%20PMP%C2%AE&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn">
-  <img width="100%" alt="Jamal Abdul Nasir — Fintech and AI systems, 15+ years, UAE and GCC, PMP" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:E0F2FE,50:BAE6FD,100:7DD3FC&text=Jamal%20Abdul%20Nasir&fontSize=48&fontColor=0F172A&fontAlignY=34&desc=Fintech%20%26%20AI%20Systems%20%C2%B7%2015%2B%20Years%20%C2%B7%20UAE%20%26%20GCC%20%C2%B7%20PMP%C2%AE&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img width="100%" alt="Jamal Abdul Nasir. Full Stack AI-Enabled Developer, Technical Team Lead, PMP. I build fintech and AI systems that save time and scale. 15+ years, UAE and GCC." src="./assets/header-light.svg">
+  </picture>
 </a>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+fintech+and+AI+systems+that+save+time+and+scale;Cards+%C2%B7+Open+Banking+%C2%B7+KYC+%C2%B7+Payments;AI+%26+n8n+Workflow+Automation;Hands-on+Team+Lead+%C2%B7+PMP%C2%AE">
-  <img alt="I build fintech and AI systems that save time and scale" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=0369A1&center=true&vCenter=true&width=720&lines=I+build+fintech+and+AI+systems+that+save+time+and+scale;Cards+%C2%B7+Open+Banking+%C2%B7+KYC+%C2%B7+Payments;AI+%26+n8n+Workflow+Automation;Hands-on+Team+Lead+%C2%B7+PMP%C2%AE">
-</picture>
-
-**Full Stack AI-Enabled Developer · Technical Team Lead · PMP®**<br/>
-15+ years shipping payments, open banking, HRTech and automation platforms across the UAE and GCC.
 
 <a href="https://www.linkedin.com/in/jamal-a-nasir"><img src="https://img.shields.io/badge/Let's%20talk-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://jamalabdulnasir.tech"><img src="https://img.shields.io/badge/See%20my%20work-Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
@@ -206,25 +198,20 @@
 
 <div align="center">
 
-## 🤝 Let's Build Something
-
-Have a fintech platform, an automation idea, or a team that needs technical leadership?
-
 <a href="https://www.linkedin.com/in/jamal-a-nasir"><img src="https://img.shields.io/badge/👉%20Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn"></a>
-
-Tell me what you are building. I reply with clear next steps.
-
-**Open to:** custom software · fintech integrations · AI and n8n automation · technical leadership
-
-<img src="https://komarev.com/ghpvc/?username=jamalnasir&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+<a href="https://jamalabdulnasir.tech"><img src="https://img.shields.io/badge/See%20my%20work-Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 
 </div>
 
-<!-- ============ FOOTER (auto light / dark) — click to message on LinkedIn ============ -->
+<br/>
+
+<!-- FOOTER: switches with GitHub light / dark theme. Click opens LinkedIn. -->
 <a href="https://www.linkedin.com/in/jamal-a-nasir">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:22D3EE,50:0EA5E9,100:1D4ED8&text=Let%27s%20build%20something&fontSize=32&fontColor=FFFFFF&fontAlignY=62&desc=Click%20to%20message%20me%20on%20LinkedIn%20%E2%86%92%20fintech%20%C2%B7%20AI%20automation%20%C2%B7%20team%20leadership&descSize=14&descAlignY=80&descAlign=50">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:7DD3FC,50:BAE6FD,100:E0F2FE&text=Let%27s%20build%20something&fontSize=32&fontColor=0F172A&fontAlignY=62&desc=Click%20to%20message%20me%20on%20LinkedIn%20%E2%86%92%20fintech%20%C2%B7%20AI%20automation%20%C2%B7%20team%20leadership&descSize=14&descAlignY=80&descAlign=50">
-  <img width="100%" alt="Let's build something — message me on LinkedIn" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:7DD3FC,50:BAE6FD,100:E0F2FE&text=Let%27s%20build%20something&fontSize=32&fontColor=0F172A&fontAlignY=62&desc=Click%20to%20message%20me%20on%20LinkedIn%20%E2%86%92%20fintech%20%C2%B7%20AI%20automation%20%C2%B7%20team%20leadership&descSize=14&descAlignY=80&descAlign=50">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+    <img width="100%" alt="Let's build something together. Message me on LinkedIn. Open to custom software, fintech integrations, AI and n8n automation, technical leadership." src="./assets/footer-light.svg">
+  </picture>
 </a>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jamalnasir&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"></p>
